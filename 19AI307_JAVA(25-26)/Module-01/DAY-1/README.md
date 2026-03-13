@@ -32,8 +32,8 @@ To write a Java program that gets the user's name as input (String) and prints a
 ## PROGRAM:
 ```txt
 Program to implement variables and Operators using Java
-Developed by: AKASH CT
-RegisterNumber: 212224240007
+Developed by: Deepak
+RegisterNumber: 212223040031
 ```
 
 ## SOURCE CODE
@@ -53,6 +53,7 @@ public class prog{
 
 ## RESULT:
 Thus, the java program to get name from the user (String) and print it is executed successfully.
+
 
 
 
