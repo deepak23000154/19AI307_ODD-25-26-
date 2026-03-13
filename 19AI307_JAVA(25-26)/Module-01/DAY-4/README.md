@@ -25,8 +25,8 @@ To write a Java program that reads an array of integers and sorts the elements i
 ## PROGRAM:
 ```txt
 Program to implement an Array concept using Java
-Developed by: AKASH CT
-RegisterNumber: 212224240007
+Developed by: Deepak
+RegisterNumber: 212223040031
 ```
 
 ## SOURCE CODE:
@@ -54,6 +54,7 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to sort an array in ascending order was executed successfully.
+
 
 
 
