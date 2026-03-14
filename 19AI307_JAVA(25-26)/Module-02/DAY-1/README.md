@@ -77,4 +77,3 @@ public class CarDemo {
 
 ## RESULT:
 The program successfully creates two Car objects and prints their brand, model, and year information.
-
